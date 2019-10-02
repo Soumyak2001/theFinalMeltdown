@@ -1,6 +1,6 @@
 # The Final Meltdown
 
-This is an Open-source virtual reality simulation of the melting polar ice caps as the result of climate change.
+This is an Open-source virtual reality simulation of the melting polar ice caps which result climate change.
 
 Built /w [A-Frame](https://aframe.io), a web framework for building virtual reality experiences. Make WebVR with HTML and Entity-Component. Works on Vive, Rift, desktop, mobile platforms.
 
